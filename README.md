@@ -2,7 +2,7 @@
 
 A Python tool for calculating precise wire anchor points to suspend cylindrical objects (drums, sculptures, etc.) within a rectangular space using tensioned wires attached to room surfaces.
 
-![3D Visualization Example](docs/example_3d.png)
+![3D Visualization Example](3d_visualization.png)
 
 ## Table of Contents
 
